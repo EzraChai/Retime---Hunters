@@ -243,7 +243,7 @@ The problem tree shows the causes and consequences of student workload overload,
 
 ### ② Idea Evolution / Brainstorm Board
 
-![Idea Evolution](IdeaEvolution.png)
+![Idea Evolution](IdealEvolution.png)
 
 This board shows how our initial productivity-focused concept evolved into a workload and capacity management solution.
 
