@@ -1,11 +1,11 @@
 # Retime by Hunters
 
-**Tagline:** *Manage your capacity, not just your tasks.*
+**Tagline:** _Manage your capacity, not just your tasks._
 
 **Team:** Lim Jia Yu, Huam Jun Fei, Chai Juan Zhe, Nicholas Tong Xun \
 **Problem Statement:** Stress & Workload Manager \
 **Video Presentation:** [Unlisted YouTube Link] \
-**Presentation Slides:** [Canva Presentation](https://canva.link/2ljpoewv2nrroww) 
+**Presentation Slides:** [Canva Presentation](https://canva.link/2ljpoewv2nrroww)
 
 ---
 
@@ -21,11 +21,11 @@ Existing productivity tools generally focus on **what needs to be done**, rather
 
 ### Stakeholders
 
-* **University students** — Primary users who need to manage competing responsibilities.
-* **Student clubs and societies** — May be affected when students become overloaded or disengaged.
-* **Universities and student support services** — Benefit when students maintain healthier workloads and routines.
-* **Friends, classmates and family** — May be affected by a student's availability and wellbeing.
-* **Employers and part-time workplaces** — Depend on students being able to balance work and study.
+- **University students** — Primary users who need to manage competing responsibilities.
+- **Student clubs and societies** — May be affected when students become overloaded or disengaged.
+- **Universities and student support services** — Benefit when students maintain healthier workloads and routines.
+- **Friends, classmates and family** — May be affected by a student's availability and wellbeing.
+- **Employers and part-time workplaces** — Depend on students being able to balance work and study.
 
 ### Existing Solutions
 
@@ -77,12 +77,12 @@ The dashboard provides an easy-to-understand overview of the student's current c
 
 Workload is broken down into:
 
-* 📚 Academic
-* 💼 Work
-* 🧠 Mental
-* 🏃 Physical
-* 👥 Social
-* 🏠 Errands
+- 📚 Academic
+- 💼 Work
+- 🧠 Mental
+- 🏃 Physical
+- 👥 Social
+- 🏠 Errands
 
 This allows students to see the **combined impact** of different responsibilities rather than viewing every commitment separately.
 
@@ -94,12 +94,12 @@ Students can quickly add commitments manually or import existing events from the
 
 Manual task input includes:
 
-* Task name
-* Duration
-* Deadline
-* Category
-* Priority
-* Flexibility
+- Task name
+- Duration
+- Deadline
+- Category
+- Priority
+- Flexibility
 
 Example:
 
@@ -109,12 +109,12 @@ The **flexibility** field allows Retime to distinguish between commitments that 
 
 Students can also import existing calendar events such as:
 
-* 📚 Classes
-* 📝 Assignment deadlines
-* 💼 Work shifts
-* 👥 Club meetings
-* 📅 Personal events
-* 🏃 Existing activities
+- 📚 Classes
+- 📝 Assignment deadlines
+- 💼 Work shifts
+- 👥 Club meetings
+- 📅 Personal events
+- 🏃 Existing activities
 
 Retime distinguishes between fixed commitments and flexible tasks. Fixed events such as classes and work shifts occupy specific time slots, while flexible tasks are evaluated using estimated effort, deadline, priority and flexibility.
 
@@ -124,10 +124,10 @@ Retime distinguishes between fixed commitments and flexible tasks. Fixed events 
 
 A quick 30-second check-in records:
 
-* Stress
-* Energy
-* Mood
-* Sleep
+- Stress
+- Energy
+- Mood
+- Sleep
 
 The purpose is to capture the student's current state without turning wellbeing tracking into another assignment.
 
@@ -139,12 +139,12 @@ When a student's workload becomes too high, Retime analyses their tasks, fixed c
 
 The system identifies what the student can:
 
-* **KEEP** — Keep important commitments unchanged.
-* **MOVE** — Reschedule flexible tasks to a lower-load period.
-* **POSTPONE** — Delay lower-priority commitments.
-* **REDUCE** — Reduce the duration or intensity of a commitment.
-* **PROTECT** — Protect essential recovery time.
-* **COMBINE** — Modify an existing commitment so it supports more than one life category.
+- **KEEP** — Keep important commitments unchanged.
+- **MOVE** — Reschedule flexible tasks to a lower-load period.
+- **POSTPONE** — Delay lower-priority commitments.
+- **REDUCE** — Reduce the duration or intensity of a commitment.
+- **PROTECT** — Protect essential recovery time.
+- **COMBINE** — Modify an existing commitment so it supports more than one life category.
 
 Example:
 
@@ -175,12 +175,12 @@ Rather than simply displaying a warning, Retime immediately provides possible ac
 
 When sustained high workload or low energy is detected, the application recommends recovery activities such as:
 
-* Taking a short break
-* Going outside
-* Sleeping earlier
-* Exercising
-* Spending time with friends
-* Taking an unscheduled period of downtime
+- Taking a short break
+- Going outside
+- Sleeping earlier
+- Exercising
+- Spending time with friends
+- Taking an unscheduled period of downtime
 
 The objective is to prevent Retime from becoming another productivity tool that simply encourages students to do more.
 
@@ -194,11 +194,11 @@ A student can press a single button:
 
 The app simplifies the day by identifying:
 
-* What must be done
-* What can be postponed
-* What can be reduced
-* What can be skipped
-* When the student should recover
+- What must be done
+- What can be postponed
+- What can be reduced
+- What can be skipped
+- When the student should recover
 
 This provides an immediate intervention when students have too many commitments to organise everything themselves.
 
@@ -261,7 +261,7 @@ The final user flow demonstrates the intended cycle:
 
 | **Date**   | **Mentor**  | **Feedback Received**               | **What Was Changed**                |
 | ---------- | ----------- | ----------------------------------- | ----------------------------------- |
-| 13-09-2026 | ........... | *To be updated after consultation.* | *To be updated after consultation.* |
+| 13-09-2026 | ........... | _To be updated after consultation._ | _To be updated after consultation._ |
 
 ---
 
@@ -277,13 +277,15 @@ The prototype focuses on demonstrating the key user journey rather than replacin
 
 The student selects their typical responsibilities:
 
-* Study
-* Work
-* Social
-* Exercise
-* Errands
+- Study
+- Work
+- Social
+- Exercise
+- Errands
 
 **Purpose:** Establish the different areas of life that contribute to workload.
+
+![Onboarding](screenshots/Onboarding.png)
 
 ---
 
@@ -308,6 +310,8 @@ The student selects their typical responsibilities:
 > **[ Rebalance My Day ]**
 
 **Purpose:** Give the student an immediate understanding of their current workload and capacity.
+
+![Dashboard](screenshots/Dashboard.png)
 
 ---
 
@@ -337,6 +341,8 @@ The student selects their typical responsibilities:
 
 **Purpose:** Capture enough information for the workload engine to estimate the impact of a commitment.
 
+![AddTask](screenshots/AddTask.png)
+
 ---
 
 ## Screen 4 — AI Rebalance
@@ -365,6 +371,8 @@ The student selects their typical responsibilities:
 
 **Purpose:** Demonstrate Retime's main differentiating feature: helping students decide what to change rather than simply displaying their workload.
 
+![AIRebalance](screenshots/AIRebalance.png)
+
 ---
 
 ## Screen 5 — Daily Check-in
@@ -387,6 +395,8 @@ The student selects their typical responsibilities:
 
 **Purpose:** Add the human side of workload management without requiring a long questionnaire.
 
+![CheckIn](screenshots/CheckIn.png)
+
 ---
 
 ## Screen 6 — Recovery Recommendation
@@ -403,11 +413,17 @@ The student selects their typical responsibilities:
 > 😴 Sleep 30 min earlier
 > ☕ 15 min completely offline
 >
-> *You don't need to "earn" your rest.*
+> _You don't need to "earn" your rest._
 >
 > **[ Start Recovery ]**
 
 **Purpose:** Close the intervention loop by helping the student recover rather than simply return to work.
+
+![Recovery](screenshots/Recovery.png)
+
+---
+
+![Rebalanced](screenshots/Rebalanced.png)
 
 ---
 
@@ -421,18 +437,18 @@ Its core idea is:
 
 ## Comparison with Existing Solutions
 
-| **Feature**                                   | **Todoist** | **Finch** | **Tiimo** | **Retime** |
-| --------------------------------------------- | ----------- | --------- | --------- | ---------- |
-| Task management                               | ✅           | ✅         | ✅         | ✅          |
-| Mood / wellbeing                              | Limited     | ✅         | ✅         | ✅          |
-| Visual planning                               | ✅           | Limited   | ✅         | ✅          |
-| AI planning                                   | Limited     | Limited   | ✅         | ✅          |
-| Workload capacity                             | ❌           | ❌         | Limited   | **✅ Core** |
-| Multi-area load                               | ❌           | Partial   | Partial   | **✅**      |
-| Detect overload                               | ❌           | Partial   | Partial   | **✅ Core** |
-| Suggest what to postpone                      | Partial     | ❌         | ✅         | **✅**      |
-| Recovery intervention                         | ❌           | ✅         | ✅         | **✅ Core** |
-| Designed specifically for university workload | ❌           | ❌         | ❌         | **✅**      |
+| **Feature**                                   | **Todoist** | **Finch** | **Tiimo** | **Retime**  |
+| --------------------------------------------- | ----------- | --------- | --------- | ----------- |
+| Task management                               | ✅          | ✅        | ✅        | ✅          |
+| Mood / wellbeing                              | Limited     | ✅        | ✅        | ✅          |
+| Visual planning                               | ✅          | Limited   | ✅        | ✅          |
+| AI planning                                   | Limited     | Limited   | ✅        | ✅          |
+| Workload capacity                             | ❌          | ❌        | Limited   | **✅ Core** |
+| Multi-area load                               | ❌          | Partial   | Partial   | **✅**      |
+| Detect overload                               | ❌          | Partial   | Partial   | **✅ Core** |
+| Suggest what to postpone                      | Partial     | ❌        | ✅        | **✅**      |
+| Recovery intervention                         | ❌          | ✅        | ✅        | **✅ Core** |
+| Designed specifically for university workload | ❌          | ❌        | ❌        | **✅**      |
 
 ## The Novel Twist
 
@@ -462,11 +478,11 @@ This transforms Retime from a **tracking tool** into an **intervention tool**.
 
 **Why Flutter?**
 
-* Cross-platform development
-* Mobile-first design
-* Fast UI development
-* Suitable for Android and iOS
-* Supports interactive dashboards and charts
+- Cross-platform development
+- Mobile-first design
+- Fast UI development
+- Suitable for Android and iOS
+- Supports interactive dashboards and charts
 
 For the hackathon MVP, we can prioritise **Android** for demonstration while keeping the architecture cross-platform.
 
@@ -476,13 +492,13 @@ For the hackathon MVP, we can prioritise **Android** for demonstration while kee
 
 The backend handles:
 
-* User data
-* Tasks
-* Wellbeing check-ins
-* Workload calculations
-* AI requests
-* Recommendations
-* Recovery actions
+- User data
+- Tasks
+- Wellbeing check-ins
+- Workload calculations
+- AI requests
+- Recommendations
+- Recovery actions
 
 Node.js + Express allows the team to quickly build REST APIs and integrate external AI services.
 
@@ -492,12 +508,12 @@ Node.js + Express allows the team to quickly build REST APIs and integrate exter
 
 The database stores:
 
-* Users
-* Tasks
-* Wellbeing Check-ins
-* Workload Scores
-* Recommendations
-* Recovery Actions
+- Users
+- Tasks
+- Wellbeing Check-ins
+- Workload Scores
+- Recommendations
+- Recovery Actions
 
 Supabase is suitable for the MVP because it provides a hosted PostgreSQL database and reduces the infrastructure that needs to be managed during the hackathon.
 
@@ -507,10 +523,10 @@ Supabase is suitable for the MVP because it provides a hosted PostgreSQL databas
 
 Gemini is used primarily for:
 
-* Analysing workload situations
-* Explaining why a student may be overloaded
-* Suggesting which flexible tasks can be moved
-* Generating personalised recovery suggestions
+- Analysing workload situations
+- Explaining why a student may be overloaded
+- Suggesting which flexible tasks can be moved
+- Generating personalised recovery suggestions
 
 Importantly, Retime will **not rely on AI for the core workload calculation**.
 
@@ -597,14 +613,14 @@ The MVP will be developed in phases to ensure that the core user experience rema
 
 Build:
 
-* User onboarding
-* Dashboard
-* Task creation
-* Task categories
-* Priority and deadline
-* Flexibility settings
-* Basic workload calculation
-* Calendar import
+- User onboarding
+- Dashboard
+- Task creation
+- Task categories
+- Priority and deadline
+- Flexibility settings
+- Basic workload calculation
+- Calendar import
 
 **Goal:** The user can see their current capacity.
 
@@ -614,11 +630,11 @@ Build:
 
 Build:
 
-* Stress check-in
-* Energy check-in
-* Sleep input
-* Mood input
-* Historical check-in data
+- Stress check-in
+- Energy check-in
+- Sleep input
+- Mood input
+- Historical check-in data
 
 **Goal:** Connect workload with the student's current wellbeing state.
 
@@ -628,13 +644,13 @@ Build:
 
 Build:
 
-* Overload detection
-* AI analysis
-* Suggested task changes
-* Move recommendations
-* Postpone recommendations
-* Reduce recommendations
-* Explanation of recommendations
+- Overload detection
+- AI analysis
+- Suggested task changes
+- Move recommendations
+- Postpone recommendations
+- Reduce recommendations
+- Explanation of recommendations
 
 **Goal:** Transform Retime from a tracker into an intervention tool.
 
@@ -644,10 +660,10 @@ Build:
 
 Build:
 
-* Recovery recommendations
-* Recovery timer/activity
-* Overload recovery screen
-* Daily recovery suggestion
+- Recovery recommendations
+- Recovery timer/activity
+- Overload recovery screen
+- Daily recovery suggestion
 
 **Goal:** Ensure the app helps students recover rather than simply encouraging them to complete more tasks.
 
@@ -657,15 +673,15 @@ Build:
 
 Final work:
 
-* Responsive mobile UI
-* Accessibility
-* Error handling
-* Loading states
-* Demo data
-* Testing
-* Backend deployment
-* Database deployment
-* Android APK build
+- Responsive mobile UI
+- Accessibility
+- Error handling
+- Loading states
+- Demo data
+- Testing
+- Backend deployment
+- Database deployment
+- Android APK build
 
 **Final MVP Goal:**
 
