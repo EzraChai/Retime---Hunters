@@ -233,48 +233,6 @@ This helps students understand their own workload patterns and recognise their l
 | **K. Full Calendar Replacement**                     | Dropped. Existing calendar applications already perform this function well. Retime should work alongside scheduling tools rather than replace them.     |
 | **L. Peer/Social Support Network**                   | Dropped from the MVP. Although potentially useful, it introduces privacy, moderation and social-platform complexity.                                    |
 
-## Idea Evolution
-
-Our concept evolved through three main stages.
-
-### Stage 1 — Productivity
-
-We initially considered building a general productivity and task-management application.
-
-**Problem discovered:**
-
-A better to-do list does not necessarily prevent burnout. It may simply help students complete more tasks.
-
-↓
-
-### Stage 2 — Productivity + Wellbeing
-
-We then considered combining task management with stress and mood tracking.
-
-**Problem discovered:**
-
-Tracking stress tells students how they feel, but does not necessarily tell them **what they should change**.
-
-↓
-
-### Stage 3 — Capacity Management
-
-We combined workload, wellbeing and intervention into one system.
-
-> **Capture → Measure → Detect → Rebalance → Recover**
-
-This became **Retime**.
-
-The key change was moving from:
-
-> **"What tasks do I have?"**
-
-to:
-
-> **"How much am I carrying, and what should I change?"**
-
----
-
 ## 2.2 Ideation Boards
 
 ### ① Problem Tree
@@ -285,13 +243,13 @@ The problem tree shows the causes and consequences of student workload overload,
 
 ### ② Idea Evolution / Brainstorm Board
 
-![Idea Evolution](idea-evolution.png)
+![Idea Evolution](IdeaEvolution.png)
 
 This board shows how our initial productivity-focused concept evolved into a workload and capacity management solution.
 
 ### ③ Final User Flow
 
-![Final User Flow](user-flow.png)
+![Final User Flow](UserFlow.png)
 
 The final user flow demonstrates the intended cycle:
 
@@ -303,7 +261,7 @@ The final user flow demonstrates the intended cycle:
 
 | **Date**   | **Mentor**  | **Feedback Received**               | **What Was Changed**                |
 | ---------- | ----------- | ----------------------------------- | ----------------------------------- |
-| 13-09-2026 | Janelle Tan | *To be updated after consultation.* | *To be updated after consultation.* |
+| 13-09-2026 | ........... | *To be updated after consultation.* | *To be updated after consultation.* |
 
 ---
 
