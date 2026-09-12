@@ -267,7 +267,7 @@ The final user flow demonstrates the intended cycle:
 
 # 3. Design & Prototype
 
-**UI Prototype:** [Public Prototype Link](https://www.figma.com/make/oFvQalhYF8p988NIbjGoqP/Code-Nection?t=GG0a3x8A1ow91GLl-1)
+**UI Prototype:** [Public Prototype Link](https://www.figma.com/make/oFvQalhYF8p988NIbjGoqP/Code-Nection?t=h6DT9ag8fJrofDL5-20&fullscreen=1)
 
 The prototype focuses on demonstrating the key user journey rather than replacing existing calendar or productivity applications.
 
