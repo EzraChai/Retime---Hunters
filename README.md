@@ -237,7 +237,7 @@ This helps students understand their own workload patterns and recognise their l
 
 ### ① Problem Tree
 
-![Problem Tree](problem-tree.png)
+![Problem Tree](ProblemTree.jpeg)
 
 The problem tree shows the causes and consequences of student workload overload, helping the team identify the underlying problem rather than treating stress as an isolated issue.
 
