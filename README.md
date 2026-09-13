@@ -140,8 +140,8 @@ When a student's workload becomes too high, Retime analyses their tasks, fixed c
 The system identifies what the student can:
 
 - **KEEP** — Keep important commitments unchanged.
-- **MOVE** — Reschedule flexible tasks to a lower-load period.
-- **POSTPONE** — Delay lower-priority commitments.
+- **MOVE** — Shift a flexible task to a less busy time on the same day, keeping its deadline.
+- **POSTPONE** — Push a lower-priority task to a later day, changing its deadline.
 - **REDUCE** — Reduce the duration or intensity of a commitment.
 - **PROTECT** — Protect essential recovery time.
 - **COMBINE** — Modify an existing commitment so it supports more than one life category.
@@ -259,11 +259,10 @@ The final user flow demonstrates the intended cycle:
 
 ## 2.3 Mentor Consultation
 
-| **Date**   | **Mentor**  | **Feedback Received**               | **What Was Changed**                |
-| ---------- | ----------- | ----------------------------------- | ----------------------------------- |
-| 13-09-2026 | ........... | _To be updated after consultation._ | _To be updated after consultation._ |
-
----
+| **Date**   | **Mentor**  | **Feedback Received**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **What Was Changed**                                                                                                             |
+| ---------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 13-09-2026 | Janelle Tan | **UI Feedback:**<br>• **Add Task & Planning:** Allow users to easily add and plan tasks for **today, tomorrow, and future dates**.<br>• **Flexibility & AI Balance:** Keep the system flexible while making the AI's workload balancing and recommendations more visible in the UI.<br>• **Navigation:** The **Task** button feels awkward in the navbar, consider moving it elsewhere.<br>• **Design:** Consider a different font and add more visual elements to make the UI feel more polished and engaging.<br><br>**AI Load Balancer:**<br>• **Move vs. Postpone:** These two options feel quite similar and may be confusing. | Clarified the difference between Move and Postpone, and adjusted the UI to make both actions more intuitive and distinguishable. |
+|  |
 
 # 3. Design & Prototype
 
@@ -382,7 +381,7 @@ The student selects their typical responsibilities:
 > Due tomorrow
 >
 > 🟡 **MOVE**
-> Gym → Saturday
+> Gym → 6:30 PM today
 >
 > 🟢 **POSTPONE**
 > Grocery Shopping → Friday
