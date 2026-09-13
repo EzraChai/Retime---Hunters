@@ -267,7 +267,7 @@ The final user flow demonstrates the intended cycle:
 
 # 3. Design & Prototype
 
-**UI Prototype:** [Public Prototype Link](https://www.figma.com/make/oFvQalhYF8p988NIbjGoqP/Code-Nection?t=GG0a3x8A1ow91GLl-1)
+**UI Prototype:** [Public Prototype Link](https://www.figma.com/make/oFvQalhYF8p988NIbjGoqP/Code-Nection?t=h6DT9ag8fJrofDL5-20&fullscreen=1)
 
 The prototype focuses on demonstrating the key user journey rather than replacing existing calendar or productivity applications.
 
@@ -289,7 +289,31 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 2 — Home / Capacity Dashboard
+## Screen 2 — Daily Check-in
+
+> **How are you feeling?**
+>
+> **Stress**
+> 😌 😐 😟 😣 😫
+>
+> **Energy**
+> 1 2 3 4 5
+>
+> **Sleep**
+> `[ 5.5 hours ]`
+>
+> **Mood**
+> 🙂 😐 😞
+>
+> **[ Done ]**
+
+**Purpose:** Add the human side of workload management without requiring a long questionnaire.
+
+![CheckIn](screenshots/CheckIn.png)
+
+---
+
+## Screen 3 — Home / Capacity Dashboard
 
 > **Good evening 👋**
 >
@@ -315,7 +339,7 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 3 — Add Task
+## Screen 4 — Add Task
 
 > **Add Task**
 >
@@ -345,7 +369,7 @@ The student selects their typical responsibilities:
 
 ---
 
-## Screen 4 — AI Rebalance
+## Screen 5 — AI Rebalance
 
 > ⚠️ **OVERLOAD DETECTED**
 >
@@ -372,30 +396,6 @@ The student selects their typical responsibilities:
 **Purpose:** Demonstrate Retime's main differentiating feature: helping students decide what to change rather than simply displaying their workload.
 
 ![AIRebalance](screenshots/AIRebalance.png)
-
----
-
-## Screen 5 — Daily Check-in
-
-> **How are you feeling?**
->
-> **Stress**
-> 😌 😐 😟 😣 😫
->
-> **Energy**
-> 1 2 3 4 5
->
-> **Sleep**
-> `[ 5.5 hours ]`
->
-> **Mood**
-> 🙂 😐 😞
->
-> **[ Done ]**
-
-**Purpose:** Add the human side of workload management without requiring a long questionnaire.
-
-![CheckIn](screenshots/CheckIn.png)
 
 ---
 
