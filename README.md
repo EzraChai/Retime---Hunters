@@ -259,11 +259,10 @@ The final user flow demonstrates the intended cycle:
 
 ## 2.3 Mentor Consultation
 
-| **Date**   | **Mentor**  | **Feedback Received**               | **What Was Changed**                |
-| ---------- | ----------- | ----------------------------------- | ----------------------------------- |
-| 13-09-2026 | ........... | _To be updated after consultation._ | _To be updated after consultation._ |
-
----
+| **Date**   | **Mentor**  | **Feedback Received**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **What Was Changed**                                                                                                             |
+| ---------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 13-09-2026 | Janelle Tan | **UI Feedback:**<br>• **Add Task & Planning:** Allow users to easily add and plan tasks for **today, tomorrow, and future dates**.<br>• **Flexibility & AI Balance:** Keep the system flexible while making the AI's workload balancing and recommendations more visible in the UI.<br>• **Navigation:** The **Task** button feels awkward in the navbar, consider moving it elsewhere.<br>• **Design:** Consider a different font and add more visual elements to make the UI feel more polished and engaging.<br><br>**AI Load Balancer:**<br>• **Move vs. Postpone:** These two options feel quite similar and may be confusing. | Clarified the difference between Move and Postpone, and adjusted the UI to make both actions more intuitive and distinguishable. |
+|  |
 
 # 3. Design & Prototype
 
