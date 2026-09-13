@@ -249,7 +249,7 @@ This board shows how our initial productivity-focused concept evolved into a wor
 
 ### ③ Final User Flow
 
-![Final User Flow](UserFlow.png)
+![Final User Flow](UserFlow.jpeg)
 
 The final user flow demonstrates the intended cycle:
 
