@@ -140,8 +140,8 @@ When a student's workload becomes too high, Retime analyses their tasks, fixed c
 The system identifies what the student can:
 
 - **KEEP** — Keep important commitments unchanged.
-- **MOVE** — Reschedule flexible tasks to a lower-load period.
-- **POSTPONE** — Delay lower-priority commitments.
+- **MOVE** — Shift a flexible task to a less busy time on the same day, keeping its deadline.
+- **POSTPONE** — Push a lower-priority task to a later day, changing its deadline.
 - **REDUCE** — Reduce the duration or intensity of a commitment.
 - **PROTECT** — Protect essential recovery time.
 - **COMBINE** — Modify an existing commitment so it supports more than one life category.
@@ -358,7 +358,7 @@ The student selects their typical responsibilities:
 > Due tomorrow
 >
 > 🟡 **MOVE**
-> Gym → Saturday
+> Gym → 6:30 PM today
 >
 > 🟢 **POSTPONE**
 > Grocery Shopping → Friday
